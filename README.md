@@ -1,10 +1,12 @@
-[Logo do git] (https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+[Logo do git] (/github.png)
 
 # Bem-vindo ao curso Git e Github.
-Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional_.
+Nesse curso você vai dominar todo **git** e **github** *do zero ao profissional*.
 
 ## Módulos:
-_Entendendo o que é git, Aprendendo sobre repositórios, Trabalhando com **branches**_
+*Entendendo o que é git, Aprendendo sobre repositórios, Trabalhando com **branches***
 
 ### Rede social:
 [Instagram] (https://www.instagram.com/rodrigonascimento78/)
+
+> essa é uma citação
