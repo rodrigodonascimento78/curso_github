@@ -7,6 +7,6 @@ Nesse curso você vai dominar todo **git** e **github** *do zero ao profissional
 *Entendendo o que é git, Aprendendo sobre repositórios, Trabalhando com **branches***
 
 ### Rede social:
-[Instagram](https://www.instagram.com/rodrigonascimento78/){ : target="_blank"}
+[Instagram](https://www.instagram.com/rodrigonascimento78/)
 
 > essa é uma citação
