@@ -3,7 +3,7 @@ function mostraNome(nome) {
 }
 
 function mostraSobreNome(sobreNome) {
-    return sobreNome;
+    return nome + sobreNome;
 }
 
 // Finalizado sistema da home
